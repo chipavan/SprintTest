@@ -13,5 +13,8 @@ public class arraysExamples {
         char[] chr = {'a', 'b', 'c'};
         //System.out.println("char is:"+chr[2]);
         System.out.println("The char is:"+chr[1]);
+        
+        
+        System.out.println("Checking GIT operations...");
     }
 }
